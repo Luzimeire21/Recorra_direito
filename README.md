@@ -1,5 +1,5 @@
 div align="center">
-   Landing Page para Advogados Responsiva, Moderna e Funcional
+   Site responsivo desenvolvido para advogado especialista em direito do transito
 </div>
 
 
@@ -12,12 +12,7 @@ div align="center">
 ## :clipboard: Sobre o Projeto
 
 <p align="justify">
-Landing page desenvolvida para advogados, com intuito de
-captar clientes e passar mais confiança aos mesmos, apresentando
-todas suas áreas de atuação, localização, meios de contato,
-formulários funcionais, responsividade sendo exibido de maneira
-profissional em todos os dispositivos e botões flutuantes
-para mobile, com funções de chamada telefônica e whatsApp.
+Landing page desenvolvida para advogados
 </p>
 
 ## :hammer_and_wrench: Tecnologias Utilizadas
@@ -27,9 +22,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * :heavy_check_mark: HTML
 * :heavy_check_mark: CSS
 * :heavy_check_mark: JavaScript
-
-## :closed_book: Licenca
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE][(https://github.com/Luzimeire21/Recorra_direito1/deployments/activity_log?environment=github-pages)] para mais detalhes.
 
 
